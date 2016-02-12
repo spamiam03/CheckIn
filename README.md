@@ -13,4 +13,5 @@
 ## Project Tracking Software
 + Trello
 + Slack
+
 ## Project Plan
