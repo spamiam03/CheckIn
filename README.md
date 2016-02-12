@@ -11,7 +11,7 @@
 ### Non-Function Requirements
 ## Methodology
 ## Project Tracking Software
-+ Trello
++ Trello - https://trello.com/b/gXOgDsw9/illya-designs
 + Slack
 
 ## Project Plan
