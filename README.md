@@ -6,11 +6,11 @@
 ## Risks
 ## Mitigation stratagy for dealing with risks
 ## Requirements
-	### User Requirements
-	### Functional Requirements
-	### Non-Function Requirements
+### User Requirements
+### Functional Requirements
+### Non-Function Requirements
 ## Methodology
 ## Project Tracking Software
-	+ Trello
-	+ Slack
++ Trello
++ Slack
 ## Project Plan
