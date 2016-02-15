@@ -1,6 +1,12 @@
 # CheckIn.io
 ## Who
+Jennifer Dooley
+Guillermo Rodriguez
+Martin Fejka
+Nick Trierweiler
+Sam Taylor
 ## Description
+Create a web-application that can be used by gyms or other companies, where people can check-in and pay (if required) in a simple and quick way.
 ## Vision Statement
 ## Motivation
 ## Risks
