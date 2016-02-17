@@ -44,9 +44,13 @@ We anticipate that we will encounter several requirements that will dicate the s
 + The system will be responsive, working on both desktop, laptop, and mobile devices
 
 ## Methodology
++ We will be implimenting the agile style of development.
++ This style of development will allow us to work in sprints to effieciently complete parts of the service.
++ Also this style encourages us to keep up on work.
 
 ## Project Tracking Software
 + Trello - https://trello.com/b/gXOgDsw9/illya-designs
 + Slack - https://illyadesigns.slack.com
 
 ## Project Plan
++ Check trello.png and slack.png for look on project tracking software
