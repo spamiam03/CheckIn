@@ -16,9 +16,10 @@ Create a web-application that can be used by gyms or other companies, where peop
 
 ## Risks
 + The biggest risk is that this app becomes useless. It needs to be simple enough to win by means of convenience.
-
++ Several Team members have little to no experience working in web design.
 ## Mitigation stratagy for dealing with risks
-
++ We have several member with personal experience in the areas we hope to market this software to.
++ One of the team members has exceptional past experience working with web design.
 ## Requirements
 We anticipate that we will encounter several requirements that will dicate the success or failure of the application. Due to the application being a Software as a Service application (SaaS), we inherit additional requirements that must be fufilled in order for our application to be a useful and a successful tool.
 
