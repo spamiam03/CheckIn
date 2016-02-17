@@ -15,18 +15,30 @@ Create a web-application that can be used by gyms or other companies, where peop
 + A check-in app allows for desired features to be added without a lot of complexity.
 
 ## Risks
-+ The biggest risk is that this app becomes useless. It needs to be simple enough to win by means of convenience. Some of the team members are new to web development.
++ The biggest risk is that this app becomes useless. It needs to be simple enough to win by means of convenience.
 
 ## Mitigation stratagy for dealing with risks
-+ We have a team member who has a lot of past experience with web development.
 
 ## Requirements
+We anticipate that we will encounter several requirements that will dicate the success or failure of the application. Due to the application being a Software as a Service application (SaaS), we inherit additional requirements that must be fufilled in order for our application to be a useful and a successful tool.
 
 ### User Requirements
++ The system interface will be user friendly, it will integrate several frameworks to create a sleek, modern ui.
++ The system will be fast, a user should not wait more than .5-2 seconds for the page to load.
++ The system should be able to store several locations in the database and allow for users to customize each location to their liking (different buildings, etc)
++ The system should be able to bill, and store peoples information for record keeping and promotional purposes
++ The system should be low cost for entry level businesses and then scale cost wise for locations and customers
 
 ### Functional Requirements
++ The system should scale and accomidate 1000+ simultaneous connections/requests
++ The system should allow for as many locations as a customer requires (as long as number scales with cost)
++ The system should allow for large venues (large amount of customers)
++ The system should scale horizontally (more servers, rather than vertically *more resources)
 
 ### Non-Function Requirements
++ The system created by this team will need to be up for 99.5% (SLA) of the time
++ The system will need to be compliant to current privacy, and user information standards
++ The system will be responsive, working on both desktop, laptop, and mobile devices
 
 ## Methodology
 
