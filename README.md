@@ -10,6 +10,7 @@
 Create a web-application that can be used by gyms or other companies, where people can check-in and pay (if required) in a simple and quick way.
 
 ## Vision Statement
+A Check-In program that is easy to use for both customers and employees.
 
 ## Motivation
 + A check-in app allows for desired features to be added without a lot of complexity.
@@ -44,9 +45,13 @@ We anticipate that we will encounter several requirements that will dicate the s
 + The system will be responsive, working on both desktop, laptop, and mobile devices
 
 ## Methodology
++ We will be using the agile style of project development
++ This style will encourage us to work often in small sprints
++ Also, this will allow us to be constantly working on the system and prevent procrastination
 
 ## Project Tracking Software
 + Trello - https://trello.com/b/gXOgDsw9/illya-designs
 + Slack - https://illyadesigns.slack.com
 
 ## Project Plan
++ See trello.png and slack.png in the repository for planning with project tracking software
