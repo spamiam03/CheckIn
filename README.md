@@ -10,6 +10,7 @@
 Create a web-application that can be used by gyms or other companies, where people can check-in and pay (if required) in a simple and quick way.
 
 ## Vision Statement
+A Check-In program that is easy to use for both customers and employees.
 
 ## Motivation
 + A check-in app allows for desired features to be added without a lot of complexity.
